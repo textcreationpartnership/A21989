@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King forasmuch as the Kings Maiesties our soueraigne lord is credibly informed, that the infection of the plague is at this present in sundry places in and about the citie of London ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21989</idno>
+            <idno type="STC">STC 8332</idno>
+            <idno type="STC">ESTC S3652</idno>
+            <idno type="EEBO-CITATION">33150693</idno>
+            <idno type="OCLC">ocm 33150693</idno>
+            <idno type="VID">28711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28711)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King forasmuch as the Kings Maiesties our soueraigne lord is credibly informed, that the infection of the plague is at this present in sundry places in and about the citie of London ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 2 lines of text.</note>
+                  <note>For adjourning part of Michaelmas term; continuing collection of money due to the king.</note>
+                  <note>"Giuen at his Maiesties Mannour of Woodstocke the sixteenth day of September 1603. in the first yeere of his Highnesse Reigne of England, France and Ireland, and of Scotland the seuen and thirtieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  London --  Prevention.</term>
+               <term>Terms of court --  England.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28711:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>¶ By the King.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Kings Maieſtie our Soueraigne Lord is credibly informed, that the in<g ref="char:EOLhyphen"/>fection of the Plague is at this preſent in ſundry places in and about the Citie of London, and in other places neere adioyning to the ſame, Whereas by the continuance thereof, through the greater repayre and reſort of his louing Subiects, great perill &amp; danger might not only enſue vnto his moſt royall Perſon, but alſo to his moſt louing Subiects repairing thither for their ſuites and cauſes, and thereby alſo giue occaſion of diſperſing of the ſame into other partes of the Realme: His Maieſtie for the ſayd neceſſary conſiderations, and hoping that the ſame wil by the goodneſſe of Almighty God with the coldneſſe of the yeere, and ſuch wholeſome Orders as are taken in his ſayd Citie, the rather ceaſe by the adiourn<g ref="char:EOLhyphen"/>ment of part of this next Tearme of Saint Michael now at hand, from the <hi>Vtas</hi> of the ſame, vntill the fourth returne of the ſayd Terme, called <hi>Menſe Michaelis</hi> next comming, His Maieſtie therefore of his eſpeciall fauour and clemencie is pleaſed and contented to adiourne the ſayd Terme of Saint Michael (that is to ſay) from the <hi>Vtas</hi> thereof, vnto the ſayd fourth returne of the ſayd Terme called <hi>Menſe Michaelis</hi> next comming, which his Maieſtie ſignifieth to all and ſinguler his lo<g ref="char:EOLhyphen"/>uing Subiects of this his Realme, to the intent that they and euery of them which hath cauſe or commandement to ap<g ref="char:EOLhyphen"/>peare in any of his Highneſſe Courts at Weſtminſter in or at any day or time from and after the ſayd <hi>Vtas</hi> of Saint Micha<g ref="char:EOLhyphen"/>el, may tary at their dwellings, or where their buſineſſe otherwiſe ſhall lie, without reſorting to any of the ſayd Courts for that cauſe before the ſayd <hi>Menſe Michaelis</hi> next comming, and that without danger of forfeiture, penaltie, or contempt to in<g ref="char:EOLhyphen"/>curre towards his Highneſſe in that behalfe. And neuertheleſſe, his Maieſties pleaſure is, that two of his Iuſtices, (that is to ſay) of either Bench one, ſhal the firſt day of Michaelmas Terme, called <hi>Octabis Michaelis,</hi> according to the ancient order of the Lawes, keepe the Eſſoines of the ſayd <hi>Octabis Michaelis:</hi> at which <hi>Vtas</hi> of Saint Michael, writs of adiournment ſhal be directed to the ſaid Iuſtices, giuing them authority to adiourne the ſaid Terme of Saint Michael (that is to ſay,) From the <hi>Vtas</hi> thereof, vntill the fourth returne, as before is ſayd: And the ſayd Adiournment ſhall be made in the firſt day of the ſayd <hi>Vtas,</hi> commonly called the day of Eſſoines. And further his Maieſties pleaſure is, that all matters, cauſes and Suits depending in any of his other Courts betweene partie and partie, as in his Highneſſe Courts of Chancerie, Starchamber, and Exchequer, Courts of Wardes and Liueries, Dutchy of Lancaſter, and Court of Requeſts, ſhall haue continuance, and the parties ſhall haue day from the date of theſe preſents vntill the ſayd fourth Returne, as before is ſayd.</p>
+            <p>Prouided alway, and his Maieſties pleaſure and commandement is, that all Collectors, Receiuers, Sheriffes and o<g ref="char:EOLhyphen"/>ther Accomptants, and all other Perſons that ſhould or ought to accompt or pay any Summe or Summes of money in any of his Maieſties Courts of Exchequer, Court of Wardes and Liueries, and of his Duchie of Lancaſter, or in any of them, or to enter into any Accompt in any of the ſaid Courts, ſhall repaire vnto his Maieſties houſe of Richmond, where his Highneſſe hath appointed ſuch Officers and Miniſters, as for that purpoſe his Maieſtie hath thought expedient, and there to pay and doe in euery behalfe, as though no ſuch Proclamation of Adiournement had beene had or made. And his Highneſſe further pleaſure and commaundement is, that all Sheriffes ſhall returne their Writs and Proces, againſt all ſuch Accomptants and Debters, at the dayes therein appointed. And if any Perſon or Perſons who ought to accompt or pay any Summe or Summes of money to his Maieſtie in any of the Courts and places aforeſaid, doe make default there<g ref="char:EOLhyphen"/>in, That then his Highneſſe Writs and Proces ſhall be awarded and ſent foorth againſt euery ſuch Perſon and Perſons, and the ſame to bee duely and orderly ſerued, and returned by the Sheriffes and Officers thereunto appointed, in ſuch like maner and forme, as the ſame ſhould haue beene if this preſent Proclamation had not bene made. And if any Sheriffe or other Officer ſhall make default, or be negligent in ſeruing, executing, or returning of any the Writs and Proces aforeſaid, That then euery ſuch Sheriffe and other Officer, ſhall incurre ſuch paines and penalties, as by the ſaid Courts or any of them ſhall bee taxed and aſſeſſed. Willing and commanding all and euery his Maieſties Sheriffes, Officers, Miniſters and Subiects to whome it doeth or ſhall appertaine, to obſerue and keepe their aſſemblies and Apparances, with all their Returnes and Certificates, in his Highneſſe ſaid Courts at Weſtminſter in <hi>Menſe Michaelis</hi> next comming, then and there to be holden and kept, and there to doe their offices and dueties in euery behalfe, in like manner and forme as they ſhould or ought to haue done, if this preſent Proclamation had not beene had or made, as they will anſwere to the contrarie at their perils.</p>
+            <closer>
+               <dateline>Giuen his Maieſties Mannour of Woodſtocke <date>the ſixteenth day of September 1603. in the firſt yeere of his Highneſſe Reigne of England, France and Ireland, and of Scotland the ſeuen and thirtieth.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt excellent Maieſtie, Anno. 1603.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
